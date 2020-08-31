@@ -65,6 +65,9 @@ List all avaliable, installable packages:
 ## Bugs
 Feel free to create an issue if you face any bugs while using or installing Turbocharge!
 
+## Announcements
+GUI Application in the works for turbocharge!!!
+
 ## Support & Feedback
 
 Be sure to contact me at my email id: ```thebossprosniper@gmail.com``` for any feedback or assistance. Thanks a lot, enjoy turbocharge!
