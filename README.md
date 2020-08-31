@@ -17,14 +17,19 @@ Turbocharge is as easy to install as it is to use!
 
 Using Pip3 (Python3):
 ```pip3 install turbocharge==3.0.0```
+
 Using Pip (Python2):
+
 Warning: pip is deprecated and I highly suggest using pip3.
+
 ```pip install turbocharge==3.0.0```
 
 Next, run this command, replacing the ```{username}``` with your name:
+
 ```echo "export PATH="/home/{username}/.local/bin:$PATH"" >> ~/.bashrc```
 
 Finally, run this command to force reload the ~/.bashrc or restart your terminal:
+
 ```source ~/.bashrc```
 
 Done! You've setup turbocharge on your device.
