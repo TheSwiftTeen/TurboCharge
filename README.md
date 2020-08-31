@@ -38,6 +38,33 @@ Done! You've setup turbocharge on your device.
 ### Verify Installation
 Just type ```turbocharge``` and you will be shown a screen with the commands you can execute using Turbocharge!
 
+### Update Turbocharge
+To update turbocharge with Pip3 (Python3):
+
+```pip3 install --upgrade turbocharge```
+
+
+To update turbocharge with Pip (Python2):
+
+```pip install --upgrade turbocharge```
+
+## Documentation
+
+Install a package:
+
+```turbocharge install <package_name>```
+
+Version of turbocharge:
+
+```turbocharge version```
+
+List all avaliable, installable packages:
+
+```turbocharge list```
+
+## Bugs
+Feel free to create an issue if you face any bugs while using or installing Turbocharge!
+
 ## Support & Feedback
 
 Be sure to contact me at my email id: ```thebossprosniper@gmail.com``` for any feedback or assistance. Thanks a lot, enjoy turbocharge!
