@@ -16,6 +16,7 @@ https://pypi.org/project/turbocharge/
 Turbocharge is as easy to install as it is to use!
 
 Using Pip3 (Python3):
+
 ```pip3 install turbocharge==3.0.0```
 
 Using Pip (Python2):
@@ -33,4 +34,6 @@ Finally, run this command to force reload the ~/.bashrc or restart your terminal
 ```source ~/.bashrc```
 
 Done! You've setup turbocharge on your device.
-If you wan't to test if it has been successfully installed, just type ```turbocharge``` and you will be shown a screen with the commands you can use using Turbocharge
+
+### Verify Installation
+Just type ```turbocharge``` and you will be shown a screen with the commands you can use using Turbocharge
