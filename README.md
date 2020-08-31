@@ -36,4 +36,8 @@ Finally, run this command to force reload the ~/.bashrc or restart your terminal
 Done! You've setup turbocharge on your device.
 
 ### Verify Installation
-Just type ```turbocharge``` and you will be shown a screen with the commands you can use using Turbocharge
+Just type ```turbocharge``` and you will be shown a screen with the commands you can execute using Turbocharge!
+
+## Support & Feedback
+
+Be sure to contact me at my email id: ```thebossprosniper@gmail.com``` for any feedback or assistance. Thanks a lot, enjoy turbocharge!
